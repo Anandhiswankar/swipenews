@@ -189,6 +189,7 @@ For support and questions:
 - Check the Flutter documentation
 - Review the code comments for implementation details
 
+Developed By Anand Hiswankar
 ---
 
 **Built with ❤️ using Flutter**
